@@ -3,7 +3,7 @@
 ### Team members:
 - Shao Wen
 - Jun Kai
-- Sheramine
+- Shermaine
 - Jefferson
 - Amy
 
