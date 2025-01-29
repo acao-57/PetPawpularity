@@ -8,4 +8,4 @@
 - Amy
 
 ### About the Project
-This project involves working on the PetFiner.my - Pawpularity Contest as part of our SC4000 source code analysis and development.
+This project involves working on the PetFinder.my - Pawpularity Contest as part of our SC4000 source code analysis and development.
